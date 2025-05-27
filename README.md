@@ -53,16 +53,12 @@ Phishing Indicators Found
 
 Learnings -
 
-Recognized phishing signs such as suspicious domains, urgent language, and unsafe links.
-
-Understood how attackers exploit user fear to gain access to systems.
-
-Became more aware of social engineering tactics used in corporate phishing attempts.
+- Recognized phishing signs such as suspicious domains, urgent language, and unsafe links.
+- Understood how attackers exploit user fear to gain access to systems.
+- Became more aware of social engineering tactics used in corporate phishing attempts.
 
 Recommendations -
 
-**Never click unknown links** or download files from unverified emails.
-
-**Verify sender addresses** and use header analysis tools when possible.
-
-**Report** such emails to the IT department immediately.
+- **Never click unknown links** or download files from unverified emails.
+- **Verify sender addresses** and use header analysis tools when possible.
+- **Report** such emails to the IT department immediately.
