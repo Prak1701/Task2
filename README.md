@@ -6,7 +6,7 @@ Tools Used -
 
 **Sample Email**:
 
-img
+![Image](https://github.com/user-attachments/assets/9e22fb65-1ed1-4c98-869d-04fad382b2ee)
 
 **Header Analyzer**: Not used (headers not available in this sample)
 **Manual Observation**: Link hover, grammar check, sender analysis
