@@ -9,6 +9,7 @@ Tools Used -
 ![Image](https://github.com/user-attachments/assets/9e22fb65-1ed1-4c98-869d-04fad382b2ee)
 
 **Header Analyzer**: Not used (headers not available in this sample)
+
 **Manual Observation**: Link hover, grammar check, sender analysis
 
 Steps Performed -
@@ -52,9 +53,9 @@ Phishing Indicators Found
 
 Learnings -
 
-- Recognized phishing signs such as suspicious domains, urgent language, and unsafe links.
-- Understood how attackers exploit user fear to gain access to systems.
-- Became more aware of social engineering tactics used in corporate phishing attempts.
+Recognized phishing signs such as suspicious domains, urgent language, and unsafe links.
+Understood how attackers exploit user fear to gain access to systems.
+Became more aware of social engineering tactics used in corporate phishing attempts.
 
 Recommendations -
 
